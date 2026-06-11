@@ -102,6 +102,8 @@ sayantan@codebydusk:~$ ls ~/projects --favorites
 
 <div align="center">
 
+[![No, Thanks!](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=no-thanks&theme=github_dark&hide_border=true)](https://github.com/codebydusk/no-thanks/)
+[![HyperToon](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=hypertoon&theme=github_dark&hide_border=true)](https://github.com/codebydusk/hypertoon/)
 [![Ciphogram Messenger](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=ciphogram-messenger&theme=github_dark&hide_border=true)](https://github.com/codebydusk/ciphogram-messenger/)
 [![Github Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=github-repo-stats&theme=github_dark&hide_border=true)](https://github.com/codebydusk/github-repo-stats/)
 [![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=ultimate-frontend-seed&theme=github_dark&hide_border=true)](https://github.com/codebydusk/ultimate-frontend-seed/)
