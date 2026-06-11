@@ -83,12 +83,11 @@ sayantan@codebydusk:~$ neofetch
                     ╔═══════════════════════════════════╗
   codebydusk        ║  OS      Arch Linux / Windows 11  ║
   -----------       ║  Editor  VS Code / Visual Studio  ║
-  ▄▄▄▄▄▄▄▄▄▄▄      ║  Shell   Bash / PowerShell        ║
-  ██ FULL    ██     ║  GPU     RTX 2070 Super           ║
-  ██  STACK  ██     ║  CPU     Ryzen 5 5600X            ║
-  ██   DEV   ██     ║  Game    CS:GO (4000+ hrs)        ║
-  ▀▀▀▀▀▀▀▀▀▀▀      ║                                   ║
-                    ╚═══════════════════════════════════╝
+  ▄▄▄▄▄▄▄▄▄▄▄       ║  Shell   Bash / PowerShell        ║
+  ██ FULL  ██       ║  GPU     RTX 2070 Super           ║
+  ██ STACK ██       ║  CPU     Ryzen 5 5600X            ║
+  ██ DEV   ██       ║  Game    CS:GO (4000+ hrs)        ║
+  ▀▀▀▀▀▀▀▀▀▀▀       ╚═══════════════════════════════════╝
 ```
 
 ---
