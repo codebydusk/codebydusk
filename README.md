@@ -127,11 +127,11 @@ sayantan@codebydusk:~$ git log --oneline --graph | head
 
 ---
 
-<div align="center">
-
 ```
 sayantan@codebydusk:~$ echo "Thanks for stopping by!" && exit
 ```
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codebydusk&label=visitors&color=0e75b6&style=flat-square)
 
