@@ -120,8 +120,8 @@ sayantan@codebydusk:~$ git log --oneline --graph | head
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebydusk&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/codebydusk/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codebydusk&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydusk&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=java)](https://github.com/codebydusk/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codebydusk&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
