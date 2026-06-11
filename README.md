@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&margin-w=15&margin-h=15&no-frame=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=codebydusk&margin-w=15&margin-h=15&no-frame=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 # Hi, I’m Sayantan Roy! 😄
 
-![Github Stats](https://komarev.com/ghpvc/?username=dusk196&label=Profile%20views&color=blue&style=flat-square)
+![Github Stats](https://komarev.com/ghpvc/?username=codebydusk&label=Profile%20views&color=blue&style=flat-square)
 
 👋🏼 A passionate full stack developer with keen knack for mostly R&D releated works
 
@@ -27,10 +27,10 @@
 <div align="center">
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=codebydusk&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/)
 
 
-[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=merko&layout=compact&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
+[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydusk&show_icons=true&theme=merko&layout=compact&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
 
 <br />
 
@@ -129,11 +129,11 @@
 
 # 💥 At a glance 💥
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codebydusk&theme=merko)](https://git.io/streak-stats)
 
 *...and more on it's way!* 😎
 
-[![Most Used langulage](https://metrics.lecoq.io/dusk196?template=terminal)](https://metrics.lecoq.io/)
+[![Most Used langulage](https://metrics.lecoq.io/codebydusk?template=terminal)](https://metrics.lecoq.io/)
 
 # 💥 Favourite IDEs 💥
 
@@ -155,7 +155,7 @@
 
 # 💥 Personal Details 💥
 
-[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
+[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/codebydusk/)
 [![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
 
 #### Personal Rig: 
@@ -174,10 +174,10 @@
 
 # 💥 Favorite projects 💥
 
-[![Ciphogram Messenger](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ciphogram-messenger&theme=merko)](https://github.com/dusk196/ciphogram-messenger/)
-[![Github Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=github-repo-stats&theme=merko)](https://github.com/dusk196/github-repo-stats/)
-[![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=merko)](https://github.com/dusk196/ultimate-frontend-seed/)
-[![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=merko)](https://github.com/dusk196/how-many-days/)
-[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=snake&theme=merko)](https://github.com/dusk196/snake/)
-[![node-auth-jwt](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=node-auth-jwt&theme=merko)](https://github.com/dusk196/node-auth-jwt/)
-[![Storage Space Tracker](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=storage-space-tracker&theme=merko)](https://github.com/dusk196/storage-space-tracker/)
+[![Ciphogram Messenger](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=ciphogram-messenger&theme=merko)](https://github.com/codebydusk/ciphogram-messenger/)
+[![Github Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=github-repo-stats&theme=merko)](https://github.com/codebydusk/github-repo-stats/)
+[![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=ultimate-frontend-seed&theme=merko)](https://github.com/codebydusk/ultimate-frontend-seed/)
+[![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=how-many-days&theme=merko)](https://github.com/codebydusk/how-many-days/)
+[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=snake&theme=merko)](https://github.com/codebydusk/snake/)
+[![node-auth-jwt](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=node-auth-jwt&theme=merko)](https://github.com/codebydusk/node-auth-jwt/)
+[![Storage Space Tracker](https://github-readme-stats.vercel.app/api/pin/?username=codebydusk&repo=storage-space-tracker&theme=merko)](https://github.com/codebydusk/storage-space-tracker/)
